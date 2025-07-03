@@ -37,6 +37,8 @@ jobs:
           destination: ./target
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: target/
 
   # Deployment job
   deploy:
