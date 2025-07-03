@@ -4,14 +4,14 @@
 |--------|-----------------------------------------------|
 | 03 jul | The deal - Chess in Concert                   |
 | 02 jul |                                               |
-| 01 jul |                                               |
+| 01 jul | Soviet Machine - Chess in Concert             |
 | 30 jun |                                               |
 | 29 jun | Muleke Transante                              |
 | 28 jun | Novacaine - The Eels                          |
 | 27 jun | Other drugs - Brick and Mortar                |
 | 26 jun | Prologue - Great commet of 1812               |
 | 25 jun | Eu odeio trabalhar | Os Pedrero               |
-| 24 jun |                                               |
+| 24 jun | Nobody's Side - Chess in Concert              |
 | 23 jun | You - Manwolves                               |
 | 22 jun | Meu Igual - Cólera                            |
 | 21 jun | Vou colocar o seu filho na droga - Os Pedrero |
