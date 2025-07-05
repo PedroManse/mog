@@ -5,6 +5,8 @@ title: Another day, another banger
 
 |  day   |                     banger                    |        authors       |
 |--------|-----------------------------------------------|----------------------|
+| 05 jul | Cachorraz Kamikaze                            | TASHA & TRACIE       |
+| 04 jul | Shake it bololô                               | AOM                  |
 | 03 jul | The deal                                      | Chess in Concert     |
 | 02 jul |                                               |                      |
 | 01 jul | Soviet Machine                                | Chess in Concert     |
