@@ -5,6 +5,10 @@ title: Another day, another banger
 
 |  day   |                     banger                    |        authors       |
 |--------|-----------------------------------------------|----------------------|
+| 09 Jul | 405                                           | Suborbitals          |
+| 08 jul | Going up the country                          | Canned heat          |
+| 07 jul | The raindrop that fell to the sky             | Chris Chris          |
+| 06 jul | Piece of my heart                             |                      |
 | 05 jul | Cachorraz Kamikaze                            | TASHA & TRACIE       |
 | 04 jul | Shake it bololô                               | AOM                  |
 | 03 jul | The deal                                      | Chess in Concert     |
