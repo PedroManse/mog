@@ -5,6 +5,7 @@ title: Another day, another banger
 
 |  day   |                     banger                    |        authors       |
 |--------|-----------------------------------------------|----------------------|
+| 24 Jul | What's up?                                    | Four non blondes     |
 | 09 Jul | 405                                           | Suborbitals          |
 | 08 jul | Going up the country                          | Canned heat          |
 | 07 jul | The raindrop that fell to the sky             | Chris Chris          |
