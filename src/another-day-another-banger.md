@@ -6,6 +6,11 @@ title: Another day, another banger
 |  day   |                     banger                    |        authors       |
 |--------|-----------------------------------------------|----------------------|
 | 24 Jul | What's up?                                    | Four non blondes     |
+| 14 Jul | The stand                                     | Mother Mother        |
+| 13 Jul | THE PRIEST SAID THE TRUTH WILL SET ME FREE SO I TOLD HIM I WAS FUCKING HIS DAUGHTER | I Fucked A Turkey    |
+| 12 Jul | Mr Sandman                                    | The Chordettes       |
+| 11 Jul | Wet                                           | Dazey and the Scouts |
+| 10 Jul | Fly me to the moon                            | Evangelion version   |
 | 09 Jul | 405                                           | Suborbitals          |
 | 08 jul | Going up the country                          | Canned heat          |
 | 07 jul | The raindrop that fell to the sky             | Chris Chris          |
